@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeLinq\ExercicioComLinq\ExercicioComLinq\bin\Debug\netcoreapp3.1\ExercicioComLinq.exe
+C:\ProgramasCSharp\ConceitoDeLinq\ExercicioComLinq\ExercicioComLinq\bin\Debug\netcoreapp3.1\ExercicioComLinq.deps.json
+C:\ProgramasCSharp\ConceitoDeLinq\ExercicioComLinq\ExercicioComLinq\bin\Debug\netcoreapp3.1\ExercicioComLinq.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeLinq\ExercicioComLinq\ExercicioComLinq\bin\Debug\netcoreapp3.1\ExercicioComLinq.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeLinq\ExercicioComLinq\ExercicioComLinq\bin\Debug\netcoreapp3.1\ExercicioComLinq.dll
+C:\ProgramasCSharp\ConceitoDeLinq\ExercicioComLinq\ExercicioComLinq\bin\Debug\netcoreapp3.1\ExercicioComLinq.pdb
+C:\ProgramasCSharp\ConceitoDeLinq\ExercicioComLinq\ExercicioComLinq\obj\Debug\netcoreapp3.1\ExercicioComLinq.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeLinq\ExercicioComLinq\ExercicioComLinq\obj\Debug\netcoreapp3.1\ExercicioComLinq.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeLinq\ExercicioComLinq\ExercicioComLinq\obj\Debug\netcoreapp3.1\ExercicioComLinq.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeLinq\ExercicioComLinq\ExercicioComLinq\obj\Debug\netcoreapp3.1\ExercicioComLinq.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeLinq\ExercicioComLinq\ExercicioComLinq\obj\Debug\netcoreapp3.1\ExercicioComLinq.dll
+C:\ProgramasCSharp\ConceitoDeLinq\ExercicioComLinq\ExercicioComLinq\obj\Debug\netcoreapp3.1\ExercicioComLinq.pdb
+C:\ProgramasCSharp\ConceitoDeLinq\ExercicioComLinq\ExercicioComLinq\obj\Debug\netcoreapp3.1\ExercicioComLinq.genruntimeconfig.cache
